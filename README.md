@@ -21,3 +21,7 @@ This repository contains a responsive website with a dark mode and light mode to
 -> CSS3: Styling and layout, including the use of CSS variables, flexbox, and other modern techniques.
 
 -> JavaScript: For toggling between dark and light modes and managing interactive elements.
+
+**Live Demo**:
+
+Check out the live version of the project [here](https://sonimahi98.github.io/dark-light-theme-toggle-site/).
